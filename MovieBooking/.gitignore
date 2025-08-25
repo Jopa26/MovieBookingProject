@@ -1,0 +1,16 @@
+@"
+.vs/
+bin/
+obj/
+out/
+Debug/
+Release/
+
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+
+*.nupkg
+*.snupkg
+"@ | Set-Content .gitignore
